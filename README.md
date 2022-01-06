@@ -12,6 +12,8 @@ il primo compito che è stato assegnato durante il corso di Boolean Careers per 
 
 Ho deciso di lasciarlo pubblico nel mio GitHub per ricordare il mio punto di partenza e mostrare a chi visiterà questo spazio il punto da cui sono partito.
 
+Ho avuto anche il coraggio di pubblicarlo su GitHub Pages, nel caso vogliate vederlo: https://kio-dev-it.github.io/html-london-trip/
+
 
 ---
 
@@ -25,4 +27,6 @@ _ENG version_
 This is the first HTML file I’ve ever written, <br>
 the first task that was assigned during the Boolean Careers course to become a Full Stack Web Developer.
 
-I decided to leave it public in my Github to remember my starting point and show who will visit this place where I started.
+I decided to leave it public in my GitHub to remember my starting point and show who will visit this place where I started.
+
+I was so brave to publish it on GitHub Pages, if you want to check it out: https://kio-dev-it.github.io/html-london-trip/
